@@ -21,7 +21,7 @@ This is available as a PDF on the nPower website.
 ### Milestone: Release white paper
 
 The white paper laying the groundwork for the upcoming tool development is available
-[here, at adeptiv.co.uk](https://adeptiv.co.uk/whitepaper-better-than-compliant/).
+[from this repository](papers/better-than-compliant.pdf).
 
 ### Milestone: Prepare for upcoming events
 
