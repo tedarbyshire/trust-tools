@@ -1,0 +1,2 @@
+# trust-tools
+Our cross-disciplinary team is working to design and develop tools which will redress the power imbalance which is implicit in long-winded terms and conditions, empowering customers to make informed decisions regarding their personal data, and enabling brands to demonstrate their commitment to trustworthiness and openness. Current work is focussed on a browser extension which will parse terms and conditions, compare them to user preferences, and flag any deviations.
