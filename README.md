@@ -18,8 +18,8 @@ Date: 02/10
 We will publish the white paper that the team has been working on to lay the groundwork for the upcoming tool development.
 
 ## Milestone: Prepare for upcoming events
-Dates: Ford - end of October, MozFest 26-28/10
-We are working towards having a completed model before our two big events. With Ford we will test the interest of brands in using the tool (and determine the advantages to them), and at MozFest we will do the same work with consumers.
+Dates: MozFest 26-28/10
+We are working towards having a completed model before events. At these we will test the value of the tool from both a brand and a user perspective.
 
 ## Milestone: Compile research
 Date: 09/11
