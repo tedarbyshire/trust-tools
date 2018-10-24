@@ -101,14 +101,13 @@ Data sharing:
 - Why (select from list)
 - Safeguards
 
-
 ## Additional standards imposed
 
 - There MUST be an email address and a post address for exercising rights
-(i.e. withdrawing consent, asking for data etc.)
-And these rights MUST be granted.
+    (i.e. withdrawing consent, asking for data etc.)
+    And these rights MUST be granted.
 - The company MUST respond by email if requested,
-and provide data in both pdf and csv form?
+    and provide data in both pdf and csv form?
 - The post and email addresses for requesting data should also be the same as for registering complaints and asking questions.
 
 ## Additional info given
