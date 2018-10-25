@@ -7,7 +7,7 @@ Current work is focussed on a browser extension which will parse terms and condi
 
 ## MozFest
 
-An illustratory mockup is available [./tools/pp-generator/mozfest-mockup/mozfest-mockup.html](here)
+An illustratory mockup is available [here](./tools/pp-generator/mozfest-mockup/mozfest-mockup.html)
 
 ## Roadmap
 
