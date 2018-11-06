@@ -8,6 +8,7 @@ Current work is focussed on a browser extension which will parse terms and condi
 ## MozFest
 
 An illustratory mockup is available [here](https://tedarbyshire.github.io/trust-tools/tools/pp-generator/mozfest-mockup/mozfest-mockup.html)
+Write up of the event available [here] (https://medium.com/@tedarbyshire/mozilla-festival-2018-5dcff5f7146) 
 
 ## Roadmap
 
