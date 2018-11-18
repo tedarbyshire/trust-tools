@@ -5,11 +5,13 @@ Rebuilding trust between consumers and brands.
 Our cross-disciplinary team is working to design and develop tools which will redress the power imbalance which is implicit in long-winded terms and conditions, empowering customers to make informed decisions regarding their personal data, and enabling brands to demonstrate their commitment to trustworthiness and openness.
 Current work is focussed on a browser extension which will parse terms and conditions, compare them to user preferences, and flag any deviations.
 
-## MozFest
+## MozFest 2018
 
-An illustratory mockup is available [here](https://tedarbyshire.github.io/trust-tools/tools/pp-generator/mozfest-mockup/mozfest-mockup.html)
+A write up of the event available [here].(https://medium.com/@tedarbyshire/mozilla-festival-2018-5dcff5f7146) 
 
-Write up of the event available here: https://medium.com/@tedarbyshire/mozilla-festival-2018-5dcff5f7146 
+The slides are available available [here].(https://tedarbyshire.github.io/trust-tools/presentations/MozFest%202018%20Event%20Presentation.pptx)
+
+An illustratory mockup of the tool is available [here].(https://tedarbyshire.github.io/trust-tools/tools/pp-generator/mozfest-mockup/mozfest-mockup.html)
 
 ## Roadmap
 
