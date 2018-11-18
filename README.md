@@ -31,12 +31,13 @@ This is available as a PDF on the nPower website.
 The white paper laying the groundwork for the upcoming tool development is available
 [from this repository](papers/better-than-compliant.pdf).
 
-### Milestone: Prepare for upcoming events
+### Milestone: MozFest 2018
 
-Date: MozFest 26/10
+Date: 26/10
 
-We are working towards having a completed model before events.
-At these we will test the value of the tool from both a brand and a user perspective.
+A presentation and illustratory tool mockup shown to attendees.
+The idea is to test the framework from a user's perspective,
+in contrast to how it will work from a brand perspective.
 
 ### Milestone: Compile research
 
@@ -49,12 +50,14 @@ This information will be used in the design of the extension.
 
 Date: Ongoing
 
-We will continue to prepare our tool for release.
+We will continue to prepare our tool for release,
+seeking advice from brands and legal teams as to what content is needed.
 
 ## Areas we need help in
 
 Please get in touch if:
 
+- You are a brand that is interested in user trust
 - You have NLP expertise and would like to help us develop a strategy and framework for parsing the legal text
 - You have legal expertise and would like to support our strategy for engaging with legislation
 - You're keen to get involved in any other way :)
