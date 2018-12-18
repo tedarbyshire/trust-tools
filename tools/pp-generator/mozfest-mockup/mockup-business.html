@@ -1,0 +1,83 @@
+<head>
+    <link rel="stylesheet" href="./normalize.css">
+    <link rel="stylesheet" href="./mockup.css">
+    <script tpye="text/javascript" src="./jquery-3.3.1.min.js"></script>
+    <script tpye="text/javascript" src="./mockup.js"></script>
+  </head>
+  
+  <body>
+    <div id="grid">
+      <div id="business" class="twoGrid" style="grid-column: 1;">
+        <h2 class="spread">Business options (location data)</h2>
+        <h3 class="spread"> Data collection </h3>
+        <div class="left">
+          <input id="locationDataCollectionUser" checked="true" type="checkbox"> User manually specified
+        </div>
+        <div class="left">
+          <input id="locationDataCollectionServices" type="checkbox"> Location services on device
+        </div>
+        <h3 class="spread"> Data purposes </h3>
+  
+        <div class="left">Purpose:</div>
+        <div class="right">
+          <select id="locationDataUsePurpose">
+            <option value="marketing">Marketing</option>
+            <option value="obligation">Legal obligation</option>
+          </select>
+        </div>
+        <div class="left">
+          Legal basis:
+        </div>
+        <div class="right">
+          <select id="locationDataUseBasis">
+            <option value="consent">Consent</option>
+            <option value="contract">Contract</option>
+            <option value="legInterest">Legitimate interests</option>
+            <option value="vitInterest">Vital interests</option>
+            <option value="public">Public task</option>
+            <option value="obligation">Legal obligation</option>
+          </select>
+        </div>
+        <div class="left">
+          Data storage:
+        </div>
+        <div class="right">
+          <select id="locationDataUseDuration">
+            <option value="indefinite">Indefinite</option>
+            <option value="6months">6 months</option>
+            <option value="3months">3 months</option>
+            <option value="1month">1 month</option>
+            <option value="2weeks">2 weeks</option>
+          </select>
+        </div>
+        <div class="spread">
+          ...
+        </div>
+        <div class="spread">
+          <h3> Data sharing </h3>
+          Location data will be shared with the following third parties:
+        </div>
+        <div class="left">
+          Purpose:
+        </div>
+        <div class="right">
+          <select id="locationDataSharePurpose">
+            <option value="marketing">Marketing</option>
+            <option value="obligation">Legal obligation</option>
+          </select>
+        </div>
+        <div class="left">List of partners:</div>
+        <div class="right">
+          <input type="text" id="locationDataShareText" value="ACME Marketing; ACME Holdings">
+        </div>
+        <div class="spread">
+          ...
+        </div>
+      </div>
+      <div id="policy" style="grid-column: 2;">
+        <h2>Policy</h2>
+        <pre id="markdownOutput">
+        </pre>
+      </div>
+    </div>
+  </body>

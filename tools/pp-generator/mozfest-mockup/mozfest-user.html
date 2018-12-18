@@ -1,0 +1,77 @@
+<head>
+  <link rel="stylesheet" href="./normalize.css">
+  <link rel="stylesheet" href="./mockup.css">
+  <script tpye="text/javascript" src="./jquery-3.3.1.min.js"></script>
+  <script tpye="text/javascript" src="./mockup.js"></script>
+</head>
+
+<body>
+  <div id="grid">
+    <div id="user" class="threeGrid" style="grid-column: 1;">
+      <h2 class="spread">User Options</h2>
+      <h3>...</h3>
+      <h3 class="spread">Data use by company</h3>
+      <div class="left">Use in marketing </div>
+      <div class="mid">
+        <input id="userLocationPurposesMarketing" type="range" min="1" max="4" value="3" class="slider">
+      </div>
+      <div class="right">
+        <span id="userLocationPurposesMarketingSpan"></span>
+      </div>
+      <div class="left">Use for legal obligations </div>
+      <div class="mid">
+        <input id="userLocationPurposesLegal" type="range" min="1" max="4" value="3" class="slider">
+      </div>
+      <div class="right">
+        <span id="userLocationPurposesLegalSpan"></span>
+      </div>
+      <h3 class="spread">Data use by partners</h3>
+      <div class="left">Use in marketing </div>
+      <div class="mid">
+        <input id="userLocationPurposes3rdMarketing" type="range" min="1" max="4" value="1" class="slider">
+      </div>
+      <div class="right">
+        <span id="userLocationPurposes3rdMarketingSpan"></span>
+      </div>
+      <div class="left">Use for legal obligations </div>
+      <div class="mid">
+        <input id="userLocationPurposes3rdLegal" type="range" min="1" max="4" value="4" class="slider">
+      </div>
+      <div class="right">
+        <span id="userLocationPurposes3rdLegalSpan"></span>
+      </div>
+      <h3>...</h3>
+    </div>
+
+    <div id="score" style="grid-column: 2;">
+      <h2>Assessment</h2>
+      <h3>
+        The following clauses did not match your preferences:
+      </h3>
+      <div class="twoGrid" style="align-items: center; justify-items: center">
+        <div class="left">
+          <b>Clause</b>
+        </div>
+        <div class="right">
+          <b>Reason</b>
+        </div>
+        <div class="left">
+          ... companies or other organisations that we have engaged to provide services on our behalf such as
+          web-hosting
+          companies, mailing vendors, analytics providers, event hosting services, information technology
+          providers, <b>marketers</b>, security specialists ...
+        </div>
+        <div class="right">
+          Sharing of personal data to marketers
+        </div>
+        <div class="left">
+          ... your name and contact information (such as your address, telephone number(s) and email address),
+          <b>heart rate</b>, and
+          information about your business or employer if you are enquiring in a commercial capacity; ...
+        </div>
+        <div class="right">
+          Collection of health information
+        </div>
+      </div>
+    </div>
+</body>

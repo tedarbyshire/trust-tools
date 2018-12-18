@@ -91,7 +91,7 @@ var generatePolicy = function () {
 
   s += newline
   s += newline
-  s += `Location data will be shared with the following purposes with the following parties:`
+  s += `Location data will be shared with the following parties:`
   s += newline
   s += newline
   s += nest(2) + locationDataUsePurposeWords[$("#locationDataSharePurpose").val()]
